@@ -1,0 +1,87 @@
+{
+    "Ambush":
+  [
+      "!init add 20 DM -p",
+      "!i madd goblin -note \"Location: b2 | Size: M | Color: r | Token: wtstw\"",
+      "!i effect DM map -attack \"||Size: 26x14 ~ Background: https://i.imgur.com/O2tMCFC.jpg ~ Options: dc60\""
+  ],
+    "Tavern-Brawl":
+  [
+      "!init add 20 DM -p",
+      "!i madd bandit -note \"Location: b5 | Size: M | Color: y \"",
+      "!i madd bandit -note \"Location: b6 | Size: M | Color: y \"",
+      "!i madd bandit -name Krentz -note \"Location: b7 | Size: M | Color: y \"",
+      "!i madd bandit -note \"Location: b8 | Size: M | Color: y \"",
+      "!i madd bandit -note \"Location: b9 | Size: M | Color: y \"",
+      "!i madd thug -name Yagra -note \"Location: f7 | Size: M | Color: g \"",
+      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+  ],
+    "Zhentaren-Hideout":
+  [
+      "!init add 20 DM -p",
+      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+
+  ],
+    "Sewers-Gazer-Gaurd":
+  [
+      "!init add 20 DM -p",
+      "!i madd gazer -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd gazer -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd gazer -note \"Location: ## | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+
+  ],
+    "XGH-Watch-Posts":
+  [
+      "!init add 20 DM -p",
+      "!i madd goblin -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd goblin -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd goblin -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd goblin -note \"Location: ## | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+  ],
+    "XGH-Sleeping-Area":
+  [
+      "!init add 20 DM -p",
+      "!i madd bandit -name Krentz -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd duegar -name Zemk -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd bandit -note \"Location: ## | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+  ],
+    "XGH-Lavatory":
+  [
+      "!init add 20 DM -p",
+      "!i madd 'gray ooze' -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd 'gray ooze' -note \"Location: ## | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+  ],
+    "XGH-Boss":
+  [
+      "!init add 20 DM -p",
+      "!i madd 'apprentice wizard' -name 'Grum'  -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd bandit -note \"Location: ## | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+  ],
+    "XGH-Hostel-Cellar":
+  [
+      "!init add 20 DM -p",
+      "!i madd wererat -name 'Roscoe' -hp 27  -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd wererat -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd wererat -note \"Location: ## | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+  ],
+    "After-the-Blast":
+  [
+      "!init add 20 DM -p",
+      "!i madd gaurd  -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd wererat -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd wererat -note \"Location: ## | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+  ]
+}
