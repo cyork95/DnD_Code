@@ -19,38 +19,38 @@
     "Zhentaren-Hideout":
   [
       "!init add 20 DM -p",
-      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd kenko -note \"Location: ## | Size: M | Color: r \"",
-      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+      "!i madd Kenku (MM) -note \"Location: n16 | Size: M | Color: r \"",
+      "!i madd Kenku (MM) -note \"Location: k21 | Size: M | Color: r \"",
+      "!i madd Kenku (MM) -note \"Location: m8 | Size: M | Color: r \"",
+      "!i madd Kenku (MM) -note \"Location: t4 | Size: M | Color: r \"",
+      "!i madd Kenku (MM) -note \"Location: t17 | Size: M | Color: r \"",
+      "!i madd Kenku (MM) -note \"Location: f4 | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 23x23 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1064160005563109447/zhentaren_hideout.png ~ Options: \""
 
   ],
     "Sewers-Gazer-Gaurd":
   [
       "!init add 20 DM -p",
-      "!i madd gazer -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd gazer -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd gazer -note \"Location: ## | Size: M | Color: r \"",
-      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+      "!i madd gazer -note \"Location: e19 | Size: M | Color: r \"",
+      "!i madd gazer -note \"Location: l20 | Size: M | Color: r \"",
+      "!i madd gazer -note \"Location: t19 | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 23x23 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1064165701981577306/sewer.png ~ Options: \""
 
   ],
     "XGH-Watch-Posts":
   [
       "!init add 20 DM -p",
-      "!i madd goblin -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd goblin -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd goblin -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd goblin -note \"Location: ## | Size: M | Color: r \"",
-      "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
+      "!i madd goblin -note \"Location: h6 | Size: M | Color: r \"",
+      "!i madd goblin -note \"Location: g7 | Size: M | Color: r \"",
+      "!i madd goblin -note \"Location: r17 | Size: M | Color: r \"",
+      "!i madd goblin -note \"Location: r19 | Size: M | Color: r \"",
+      "!i effect DM map -attack \"||Size: 23x23 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1064175571698983004/xgh_watch_post.png ~ Options: \""
   ],
     "XGH-Sleeping-Area":
   [
       "!init add 20 DM -p",
       "!i madd bandit -name Krentz -note \"Location: ## | Size: M | Color: r \"",
-      "!i madd duegar -name Zemk -note \"Location: ## | Size: M | Color: r \"",
+      "!i madd duergar -name Zemk -note \"Location: ## | Size: M | Color: r \"",
       "!i madd bandit -note \"Location: ## | Size: M | Color: r \"",
       "!i effect DM map -attack \"||Size: 15x15 ~ Background: https://cdn.discordapp.com/attachments/989731048239808522/1007375821100560514/butterskull_ranch_common_room.png ~ Options: \""
   ],

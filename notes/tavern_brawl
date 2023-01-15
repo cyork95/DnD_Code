@@ -1,0 +1,6 @@
+Tavern Brawl:
+    !i madd troll -hp 44 -note "Location: h9 | Size: M | Color: r "
+    !i madd stirge -note "Location: h8 | Size: M | Color: r "
+    !i madd stirge -note "Location: g9 | Size: M | Color: r "
+    !i madd stirge -note "Location: i9 | Size: M | Color: r "
+    !i madd durnan -name Durnan -note "Location: h11 | Size: M | Color: g "
